@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+cryptowand_data_hub/config
+myprojects.code-workspace
+cryptowand_channel_hub/fe/cwfe/node_modules
+cryptowand_data_hub/output

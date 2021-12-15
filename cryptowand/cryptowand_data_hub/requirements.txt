@@ -1,0 +1,7 @@
+python_arango==7.2.0
+boto3==1.17.96
+botocore==1.20.96
+requests==2.25.1
+arango==0.2.1
+confuse==1.5.0
+PyYAML==5.4.1
